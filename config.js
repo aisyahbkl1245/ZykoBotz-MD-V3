@@ -54,15 +54,15 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXXX' //pasang no own lo
-global.nomorown1 = '628XXXXXXXXX'
-global.nomorown2 = '628XXXXXXXXX'
-global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.nomorbot = '6289669152489' //pasang no bot lo 
+global.nomorown = '6282376267531' //pasang no own lo
+global.nomorown1 = '6282376267531'
+global.nomorown2 = '6282376267531'
+global.nomorwa = '6282376267531'
+global.nameown = '𝑍YANN-𝑀𝐷'
+global.gcname = '𝑍YANN-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.namabot = '𝗭𝘆ann𝗕𝗼𝘁𝘇-𝗠𝗗'
 global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
 global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 
